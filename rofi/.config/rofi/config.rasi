@@ -1,0 +1,14 @@
+configuration {
+    modi: "drun,run,window";
+    show-icons: false;
+    icon-theme: "Papirus";
+    font: "Monaspace Radon NF 12";
+}
+window {
+    width: 60%;
+    height: 25%;
+}
+
+listview {
+    lines: 6;   
+}

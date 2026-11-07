@@ -1,0 +1,20 @@
+/* Base Color Theme Options */
+
+@import "SakurasSimpleSidebar/amoledDarkTheme.css";
+/*@import "SakurasSimpleSidebar/darkerTheme.css";*/
+/*@import "SakurasSimpleSidebar/darkTheme.css";*/
+/*@import "SakurasSimpleSidebar/lightTheme.css";*/
+
+/* Functional Options */
+
+@import "SakurasSimpleSidebar/changeColors.css";
+@import "SakurasSimpleSidebar/removeExtras.css";
+@import "SakurasSimpleSidebar/hideBookmarks.css";
+/*@import "SakurasSimpleSidebar/noTablineWindows.css";*/
+@import "SakurasSimpleSidebar/noTablineLinux.css";
+@import "SakurasSimpleSidebar/sidebery.css";
+
+:root{
+    --accent-color: #fcbccd; /* Change this color to your liking, default is a Cherry Blossom Pink. Used in Amoled, Dark, and Darker color themes */
+    --accent-color-light: #f16084; /* Change this color to your liking, default is a Medium Pink. Used in light theme */
+}

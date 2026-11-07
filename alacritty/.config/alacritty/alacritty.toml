@@ -1,0 +1,19 @@
+[window]
+dimensions = { columns = 80, lines = 24 }
+padding = { x = 4, y = 0 }
+blur = true
+
+[font]
+normal = { family = "Monaspace Radon NF", style = "Regular" }
+bold = { family = "Monaspace Radon NF", style = "Bold" }
+italic = { family = "Monaspace Radon NF", style = "Italic" }
+bold_italic = { family = "Monaspace Radon NF", style = "Bold Italic" }
+size = 9
+
+[selection]
+save_to_clipboard = true
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+
